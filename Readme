@@ -1,0 +1,16 @@
+---
+
+## **2. Fake News Detection with NLP**  
+**`README.md`**
+
+```markdown
+# Fake News Detection using NLP
+
+This project detects fake news articles using NLP and machine learning. It uses a TF-IDF vectorizer and a Passive Aggressive Classifier.
+
+## Features
+- Text preprocessing and TF-IDF feature extraction
+- Fake news detection using Passive Aggressive Classifier
+- Accuracy and confusion matrix for evaluation
+
+## Requirements
